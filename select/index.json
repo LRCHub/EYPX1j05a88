@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "外道讃歌",
+  "base_artist": "FantasticYouth",
+  "createdAt": "2026-02-13T23:17:41.799547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "外道讃歌",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/01_外道讃歌_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "外道讃歌 - Gedosanka",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/02_外道讃歌_-_Gedosanka_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "外道讃歌",
+      "artist": "FantasticYouth",
+      "has_synced": false,
+      "path": "select/03_外道讃歌_FantasticYouth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "外道讃歌",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/04_外道讃歌_FantasticYouth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "外道讃歌",
+      "artist": "Fantastic Youth",
+      "has_synced": false,
+      "path": "select/pl_01_外道讃歌_Fantastic_Youth.txt"
+    }
+  ]
+}
